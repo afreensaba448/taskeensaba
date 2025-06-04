@@ -17,7 +17,7 @@ const App=()=>{
   return<>
   <Card>
     <h1 style={style}>my card</h1>
-    <p > this is some content for card 1 and you </p>
+    <p > this is some content for card 1  </p>
   </Card>
   <Card>
 
