@@ -17,7 +17,7 @@ const App=()=>{
   return<>
   <Card>
     <h1 style={style}>my card</h1>
-    <p > this is some content where   </p>
+    <p > this is some content where we learn how to commit   </p>
   </Card>
   <Card>
 
