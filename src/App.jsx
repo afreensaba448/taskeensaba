@@ -22,7 +22,7 @@ const App=()=>{
   <Card>
 
     <h1>my card</h1>
-    <p>this is some content for card</p>
+    <p>this is some content for card now we are trying again</p>
   </Card>
   <Card>
     <h1>my card</h1>
