@@ -17,12 +17,12 @@ const App=()=>{
   return<>
   <Card>
     <h1 style={style}>my card</h1>
-    <p > this is some content </p>
+    <p > this is some content where we learn how to commit   </p>
   </Card>
   <Card>
 
     <h1>my card</h1>
-    <p>this is some content for card 1</p>
+    <p>this is some content for card</p>
   </Card>
   <Card>
     <h1>my card</h1>
